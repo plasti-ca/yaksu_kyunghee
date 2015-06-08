@@ -1,0 +1,14 @@
+aws route53 domain server name server edit
+
+-- 신 서버?
+ns-22.awsdns-02.com.
+ns-1462.awsdns-54.org.
+ns-1830.awsdns-36.co.uk.
+ns-691.awsdns-22.net.
+
+
+-- 기존 작성되어 있던 것
+ns-1956.awsdns-52.co.uk
+ns-1295.awsdns-33.org
+ns-555.awsdns-05.net
+ns-147.awsdns-18.com
